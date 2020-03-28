@@ -1,0 +1,57 @@
+.div1 {
+                color: black;
+                font-size: 45px;
+                font-family: 'Segoe UI',sans-serif;
+                text-decoration: underline;
+            }
+.div2 {
+                color: forestgreen;
+                font-size: 45px;                                 font-family: 'Segoe UI',sans-serif;
+                text-decoration: underline;
+            }
+.website div {
+                  display: inline-block;
+                  height: auto;
+                  margin-top: 65px;
+            }
+.list1 {    
+                font-family: cursive;
+                color: forestgreen;
+                background-color: aliceblue;
+                padding: 10px;   
+}
+.list2 {
+                font-family: cursive;
+                color: forestgreen;
+                background-color: aliceblue;
+                padding: 10px;
+}
+.list3 {    
+                font-family: cursive;
+                color: forestgreen;
+                background-color: aliceblue;
+                padding: 10px;
+}
+.list4 {    
+                font-family: cursive;
+                color: forestgreen;
+                background-color: aliceblue;
+                padding: 10px;
+}
+.navigation div {
+                list-style-type: none;
+                font-size: 25px;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: darkgray;
+                float: left; 
+                display: inline-block;
+                color: forestgreen;
+                text-align: center;
+                padding: 10px;
+                text-decoration: none;        
+     }
+
+.navigation div:hover {
+  background-color: gray;
